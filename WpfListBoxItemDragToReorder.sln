@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfListBoxItemDragToReorder", "WpfListBoxItemDragToReorder\WpfListBoxItemDragToReorder.csproj", "{BF4DDAA7-053A-47F5-AA44-BF6F9ACAB2EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF4DDAA7-053A-47F5-AA44-BF6F9ACAB2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4DDAA7-053A-47F5-AA44-BF6F9ACAB2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4DDAA7-053A-47F5-AA44-BF6F9ACAB2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4DDAA7-053A-47F5-AA44-BF6F9ACAB2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96B70064-02A9-440B-9E80-5D9E85DCF4E5}
+	EndGlobalSection
+EndGlobal
